@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MissingNumber.Console/1.0.0": {
+        "dependencies": {
+          "MissingNumber": "1.0.0"
+        },
+        "runtime": {
+          "MissingNumber.Console.dll": {}
+        }
+      },
+      "MissingNumber/1.0.0": {
+        "runtime": {
+          "MissingNumber.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MissingNumber.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MissingNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

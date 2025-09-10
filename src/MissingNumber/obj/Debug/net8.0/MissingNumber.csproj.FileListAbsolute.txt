@@ -1,0 +1,12 @@
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/bin/Debug/net8.0/MissingNumber.deps.json
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/bin/Debug/net8.0/MissingNumber.dll
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/bin/Debug/net8.0/MissingNumber.pdb
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/MissingNumber.AssemblyInfoInputs.cache
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/MissingNumber.AssemblyInfo.cs
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/MissingNumber.csproj.CoreCompileInputs.cache
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/MissingNumber.sourcelink.json
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/MissingNumber.dll
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/refint/MissingNumber.dll
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/MissingNumber.pdb
+/home/gabriel/code/gsfiorese/missing-number/src/MissingNumber/obj/Debug/net8.0/ref/MissingNumber.dll
