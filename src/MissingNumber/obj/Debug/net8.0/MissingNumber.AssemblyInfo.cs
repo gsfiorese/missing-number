@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MissingNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b170c6eeb9f116cd891704838476e5a4caf332")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c94d1c87bbf3c1c2074168b6c21f3140eafe453e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MissingNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MissingNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
