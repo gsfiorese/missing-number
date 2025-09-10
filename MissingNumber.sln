@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bench", "bench", "{C9C1F5D3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber.Benchmarks", "bench\MissingNumber.Benchmarks\MissingNumber.Benchmarks.csproj", "{1CD3FA2A-7180-4FC9-9E48-346F6B3EF807}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{8CE155D4-9E4E-435A-A8FB-DB63F614AEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber.Console", "apps\MissingNumber.Console\MissingNumber.Console.csproj", "{BCD2CDD3-04C7-42D4-AF83-FB7D07C3B4FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,10 +40,15 @@ Global
 		{1CD3FA2A-7180-4FC9-9E48-346F6B3EF807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CD3FA2A-7180-4FC9-9E48-346F6B3EF807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CD3FA2A-7180-4FC9-9E48-346F6B3EF807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD2CDD3-04C7-42D4-AF83-FB7D07C3B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD2CDD3-04C7-42D4-AF83-FB7D07C3B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD2CDD3-04C7-42D4-AF83-FB7D07C3B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD2CDD3-04C7-42D4-AF83-FB7D07C3B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6490EE29-FC9F-4864-B7EE-0B4A92274310} = {AD10E131-6670-41A9-AD11-CF4E91BB54C9}
 		{C7AF110A-C007-4C97-8029-290B83F449A9} = {2928C0F4-EEE5-4924-9666-742E5E25397B}
 		{1CD3FA2A-7180-4FC9-9E48-346F6B3EF807} = {C9C1F5D3-21B7-47D0-A17E-8C530499D2B0}
+		{BCD2CDD3-04C7-42D4-AF83-FB7D07C3B4FD} = {8CE155D4-9E4E-435A-A8FB-DB63F614AEDB}
 	EndGlobalSection
 EndGlobal
